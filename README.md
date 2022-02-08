@@ -8,5 +8,3 @@ Welcome to my GitHub 😁
 
 - 🌱 I’m currently learning UI/UX concepts 🎨
 - 📫 How to reach me: ghazalkalhori@yahoo.com
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GKalhori&layout=compact&theme=algolia" alt="GKalhori" />
