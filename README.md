@@ -7,4 +7,4 @@ I'm interested in aesthetics and design and I try to combine my artistic taste w
 Welcome to my GitHub 😁
 
 - 🌱 I’m currently learning UI/UX concepts 🎨
-- 📫 How to reach me: ghazalkalhori@yahoo.com
+- 📫 How to reach me: ghazalkalhori@gmail.com
